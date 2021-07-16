@@ -1,0 +1,8 @@
+keystore = "keys"
+
+[foreign]
+rpc_host = "https://mainnet.blockscout.com"
+password = "password.txt"
+
+[transactions]
+withdraw_confirm = { gas = 400000 }
